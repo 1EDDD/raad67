@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "fields": [
+    {
+      "id": "no_ads",
+      "label": "Remove YouTube ads (YTLite required)",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "id": "background_playback",
+      "label": "Enable background playback",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "id": "no_related_videos",
+      "label": "Hide related videos",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "id": "no_promotion_cards",
+      "label": "Hide promotion cards",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "id": "no_watermarks",
+      "label": "Hide video watermarks",
+      "type": "boolean",
+      "default": true
+    }
+  ]
+}
