@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>noAds</key>
+    <string>{{no_ads}}</string>
+    <key>backgroundPlayback</key>
+    <string>{{background_playback}}</string>
+    <key>noRelatedVids</key>
+    <string>{{no_related_videos}}</string>
+    <key>noPromotionCards</key>
+    <string>{{no_promotion_cards}}</string>
+    <key>noWatermarks</key>
+    <string>{{no_watermarks}}</string>
+</dict>
+</plist>
